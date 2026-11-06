@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">Syllovo mark</title>
+  <rect width="96" height="96" rx="22" fill="#14162D"/>
+  <g fill="none" stroke-width="10" stroke-linecap="round">
+    <path d="M61 25H43C31 25 23 31 23 40S31 55 43 55H50" stroke="#B9A5FF"/>
+    <path d="M46 41H53C65 41 73 47 73 56S65 72 53 72H25" stroke="#7775FF"/>
+  </g>
+  <path d="M67 16h14v14Z" fill="#FF9B77"/>
+</svg>

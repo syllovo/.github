@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="250" viewBox="0 0 1080 250" role="img" aria-labelledby="title description">
+  <title id="title">Syllovo™</title>
+  <desc id="description">AI for course authors. Two interlocking pages form an S, with a coral folded corner.</desc>
+  <defs>
+    <linearGradient id="backdrop" x2="1" y2="1">
+      <stop stop-color="#161932"/>
+      <stop offset="1" stop-color="#292250"/>
+    </linearGradient>
+    <pattern id="dots" width="19" height="19" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#AFA0E8" opacity=".3"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1078" height="248" rx="24" fill="url(#backdrop)" stroke="#49456D" stroke-width="2"/>
+  <g transform="translate(58 56) scale(1.4375)">
+    <rect width="96" height="96" rx="22" fill="#14162D"/>
+    <g fill="none" stroke-width="10" stroke-linecap="round">
+      <path d="M61 25H43C31 25 23 31 23 40S31 55 43 55H50" stroke="#B9A5FF"/>
+      <path d="M46 41H53C65 41 73 47 73 56S65 72 53 72H25" stroke="#7775FF"/>
+    </g>
+    <path d="M67 16h14v14Z" fill="#FF9B77"/>
+  </g>
+  <g font-family="system-ui, Arial, sans-serif">
+    <text x="232" y="137" font-size="88" font-weight="750" letter-spacing="-3" fill="#FBF9FF">Syllovo<tspan dx="7" dy="-38" font-size="27" letter-spacing="0">™</tspan></text>
+    <text x="238" y="183" font-size="33" font-weight="500" fill="#DED7FA">AI for course authors</text>
+  </g>
+  <g aria-hidden="true">
+    <rect x="764" y="44" width="255" height="162" rx="12" fill="url(#dots)"/>
+    <path d="M793 176h63a43 43 0 0 0 43-43 27 27 0 0 1 27-27h59" fill="none" stroke="#7775FF" stroke-width="3" opacity=".78"/>
+    <path d="M793 148h63a15 15 0 0 0 15-15 55 55 0 0 1 55-55h31" fill="none" stroke="#B9A5FF" stroke-width="3" opacity=".9"/>
+    <path d="M963 65h24v24Z" fill="#FF9B77"/>
+  </g>
+</svg>
