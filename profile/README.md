@@ -22,7 +22,7 @@
 | Repository | Purpose | Visibility | Status |
 | :--- | :--- | :--- | :--- |
 | [**`syllovo-creator-hub`**](https://github.com/syllovo/syllovo-creator-hub) | Internal Technical Documentation Portal, Camtasia/Snagit SOPs, ElevenLabs Voice Studio, and Creator Workbench. | `Private` | Deployed to [Cloudflare Pages](https://syllovo-creator-hub.pages.dev) |
-| [**`syllovo-core`**](https://github.com/syllovo/syllovo-core) | The central governed course authoring engine: brief-to-outline, demo project synthesis, slide decks, and multi-track narration. | `Private` | Active Platform |
+| [**`syllovo-app`**](https://github.com/syllovo/syllovo-app) | The central governed course authoring web application: brief-to-outline, demo project synthesis, slide decks, and multi-track narration. | `Private` | Active Web App |
 | [**`syllovo-skills-pluralsight`**](https://github.com/syllovo/syllovo-skills-pluralsight) | Governed authoring skills, curriculum validators, and screen-highlight specialists for Pluralsight production. | `Private` | Active Releases |
 | [**`.github`**](https://github.com/syllovo/.github) | Organization profile, community health files, and brand standards. | `Public` | Active |
 
